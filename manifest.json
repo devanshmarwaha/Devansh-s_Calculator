@@ -2,7 +2,7 @@
     "theme_color": "#00ffff",
     "background_color": "#00bfff",
     "display": "standalone",
-    "start_url": "/index.html",
+    "start_url": "/",
     "app_name": "SimiCart",
     "short_name": "SimiCart",
     "description": "Next Generation eCommerce Solutions for Magento",
