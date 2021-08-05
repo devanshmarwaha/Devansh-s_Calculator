@@ -3,8 +3,8 @@
     "background_color": "#00bfff",
     "display": "standalone",
     "start_url": "/Devansh-s_Calculator/index.html",
-    "app_name": "SimiCart",
-    "short_name": "SimiCart",
+    "app_name": "Calculator",
+    "short_name": "Calculator
     "description": "Next Generation eCommerce Solutions for Magento",
     "icons": [{
         "src": "images.png",
