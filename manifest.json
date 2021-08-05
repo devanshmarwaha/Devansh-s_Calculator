@@ -1,7 +1,7 @@
 {
     "theme_color": "#00ffff",
     "background_color": "#00bfff",
-    "display": "standalsone",
+    "display": "standalone",
     "scope": "/",
     "start_url": "/index.html",
     "app_name": "SimiCart",
@@ -9,7 +9,7 @@
     "description": "Next Generation eCommerce Solutions for Magento",
     "icons": [{
         "src": "images.png",
-        "sizes": "144x144",
+        "sizes": "225x225",
         "type": "image/png"
     }]
 }
